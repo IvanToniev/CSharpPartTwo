@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\bin\Debug\HTML.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\bin\Debug\HTML.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\bin\Debug\HTML.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\obj\Debug\HTML.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\obj\Debug\HTML.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HTML\obj\Debug\HTML.pdb

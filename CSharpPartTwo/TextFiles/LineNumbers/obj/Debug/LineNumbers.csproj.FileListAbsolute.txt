@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\obj\Debug\LineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\obj\Debug\LineNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\LineNumbers\obj\Debug\LineNumbers.pdb

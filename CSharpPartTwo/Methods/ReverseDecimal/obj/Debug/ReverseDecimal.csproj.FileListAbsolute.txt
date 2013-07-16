@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\obj\Debug\ReverseDecimal.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\obj\Debug\ReverseDecimal.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseDecimal\obj\Debug\ReverseDecimal.csprojResolveAssemblyReference.cache

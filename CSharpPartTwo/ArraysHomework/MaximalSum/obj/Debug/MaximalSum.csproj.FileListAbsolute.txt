@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSum\obj\Debug\MaximalSum.pdb

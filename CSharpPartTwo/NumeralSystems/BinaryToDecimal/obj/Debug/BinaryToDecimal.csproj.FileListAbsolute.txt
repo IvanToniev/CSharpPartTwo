@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

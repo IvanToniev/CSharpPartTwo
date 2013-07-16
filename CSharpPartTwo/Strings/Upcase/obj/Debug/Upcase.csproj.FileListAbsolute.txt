@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\bin\Debug\Upcase.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\bin\Debug\Upcase.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\bin\Debug\Upcase.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\obj\Debug\Upcase.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\obj\Debug\Upcase.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Upcase\obj\Debug\Upcase.pdb

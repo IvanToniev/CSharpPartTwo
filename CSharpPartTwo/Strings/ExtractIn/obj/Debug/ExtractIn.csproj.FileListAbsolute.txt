@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\bin\Debug\ExtractIn.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\bin\Debug\ExtractIn.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\bin\Debug\ExtractIn.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\obj\Debug\ExtractIn.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\obj\Debug\ExtractIn.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\ExtractIn\obj\Debug\ExtractIn.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\DecToHex\bin\Debug\DecToHex.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\DecToHex\bin\Debug\DecToHex.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\DecToHex\bin\Debug\DecToHex.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\DecToHex\obj\Debug\DecToHex.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\DecToHex\obj\Debug\DecToHex.pdb

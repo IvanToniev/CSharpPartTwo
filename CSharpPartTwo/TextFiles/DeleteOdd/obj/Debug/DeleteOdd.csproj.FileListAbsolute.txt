@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOdd\bin\Debug\DeleteOdd.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOdd\bin\Debug\DeleteOdd.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOdd\bin\Debug\DeleteOdd.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOdd\obj\Debug\DeleteOdd.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\DeleteOdd\obj\Debug\DeleteOdd.pdb

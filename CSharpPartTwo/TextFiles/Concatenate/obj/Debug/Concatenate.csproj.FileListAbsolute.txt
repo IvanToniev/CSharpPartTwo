@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\bin\Debug\Concatenate.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\bin\Debug\Concatenate.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\bin\Debug\Concatenate.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\obj\Debug\Concatenate.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\obj\Debug\Concatenate.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\Concatenate\obj\Debug\Concatenate.csprojResolveAssemblyReference.cache

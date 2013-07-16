@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\bin\Debug\ReverseAverageLinear.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\bin\Debug\ReverseAverageLinear.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\bin\Debug\ReverseAverageLinear.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\obj\Debug\ReverseAverageLinear.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\obj\Debug\ReverseAverageLinear.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\ReverseAverageLinear\obj\Debug\ReverseAverageLinear.pdb

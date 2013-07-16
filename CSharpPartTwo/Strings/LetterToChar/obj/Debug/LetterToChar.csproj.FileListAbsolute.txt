@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\LetterToChar\bin\Debug\LetterToChar.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\LetterToChar\bin\Debug\LetterToChar.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\LetterToChar\bin\Debug\LetterToChar.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\LetterToChar\obj\Debug\LetterToChar.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\LetterToChar\obj\Debug\LetterToChar.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\bin\Debug\LastDigit.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\bin\Debug\LastDigit.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\bin\Debug\LastDigit.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\obj\Debug\LastDigit.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\obj\Debug\LastDigit.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\LastDigit\obj\Debug\LastDigit.csprojResolveAssemblyReference.cache

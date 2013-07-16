@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\bin\Debug\FirstBigger.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\obj\Debug\FirstBigger.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\bin\Debug\FirstBigger.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\bin\Debug\FirstBigger.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\bin\Debug\BigThanTheNeighbours.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\bin\Debug\BigThanTheNeighbours.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\obj\Debug\FirstBigger.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\FirstBigger\obj\Debug\FirstBigger.pdb

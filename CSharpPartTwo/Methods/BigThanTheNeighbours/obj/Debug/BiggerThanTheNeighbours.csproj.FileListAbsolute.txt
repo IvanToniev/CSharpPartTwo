@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\bin\Debug\BigThanTheNeighbours.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\bin\Debug\BigThanTheNeighbours.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\bin\Debug\BigThanTheNeighbours.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\obj\Debug\BiggerThanTheNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\obj\Debug\BigThanTheNeighbours.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\BigThanTheNeighbours\obj\Debug\BigThanTheNeighbours.pdb

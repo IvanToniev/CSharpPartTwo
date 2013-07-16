@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\bin\Debug\AddAsArrays.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\obj\Debug\AddAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\bin\Debug\AddAsArrays.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\bin\Debug\AddAsArrays.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\obj\Debug\AddAsArrays.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddAsArrays\obj\Debug\AddAsArrays.pdb

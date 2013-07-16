@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\bin\Debug\CheckBrackets.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\bin\Debug\CheckBrackets.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\bin\Debug\CheckBrackets.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\obj\Debug\CheckBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\obj\Debug\CheckBrackets.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\CheckBrackets\obj\Debug\CheckBrackets.pdb

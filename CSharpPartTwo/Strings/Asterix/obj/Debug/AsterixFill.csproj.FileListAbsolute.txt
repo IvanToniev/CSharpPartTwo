@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\bin\Debug\Asterix.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\bin\Debug\Asterix.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\bin\Debug\Asterix.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\obj\Debug\AsterixFill.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\obj\Debug\Asterix.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Asterix\obj\Debug\Asterix.pdb

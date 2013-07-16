@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\bin\Debug\AddPolynomials.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\bin\Debug\AddPolynomials.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\bin\Debug\AddPolynomials.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\obj\Debug\AddPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\obj\Debug\AddPolynomials.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\AddPolynomials\obj\Debug\AddPolynomials.pdb

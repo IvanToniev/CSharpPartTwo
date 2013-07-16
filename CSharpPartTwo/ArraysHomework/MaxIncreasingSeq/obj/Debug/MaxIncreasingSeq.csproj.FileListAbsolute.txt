@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\bin\Debug\MaxIncreasingSeq.exe.config
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\bin\Debug\MaxIncreasingSeq.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\bin\Debug\MaxIncreasingSeq.pdb
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\obj\Debug\MaxIncreasingSeq.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\obj\Debug\MaxIncreasingSeq.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\MaxIncreasingSeq\obj\Debug\MaxIncreasingSeq.csprojResolveAssemblyReference.cache

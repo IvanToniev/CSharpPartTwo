@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dictionary\obj\Debug\Dictionary.pdb

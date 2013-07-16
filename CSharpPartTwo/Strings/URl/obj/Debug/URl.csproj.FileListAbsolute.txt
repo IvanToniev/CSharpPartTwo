@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\bin\Debug\URl.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\bin\Debug\URl.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\bin\Debug\URl.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\obj\Debug\URl.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\obj\Debug\URl.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\URl\obj\Debug\URl.pdb

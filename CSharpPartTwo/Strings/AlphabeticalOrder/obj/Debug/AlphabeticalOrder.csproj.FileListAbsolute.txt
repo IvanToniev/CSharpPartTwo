@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\bin\Debug\AlphabeticalOrder.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\bin\Debug\AlphabeticalOrder.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\bin\Debug\AlphabeticalOrder.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\obj\Debug\AlphabeticalOrder.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\obj\Debug\AlphabeticalOrder.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\AlphabeticalOrder\obj\Debug\AlphabeticalOrder.csprojResolveAssemblyReference.cache

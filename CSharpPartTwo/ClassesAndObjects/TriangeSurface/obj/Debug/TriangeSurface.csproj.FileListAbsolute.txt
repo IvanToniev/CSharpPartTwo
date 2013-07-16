@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\bin\Debug\TriangeSurface.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\bin\Debug\TriangeSurface.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\bin\Debug\TriangeSurface.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\obj\Debug\TriangeSurface.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\obj\Debug\TriangeSurface.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\TriangeSurface\obj\Debug\TriangeSurface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\bin\Debug\HowManyTimes.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\bin\Debug\HowManyTimes.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\bin\Debug\HowManyTimes.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\obj\Debug\HowManyTimes.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\obj\Debug\HowManyTimes.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\HowManyTimes\obj\Debug\HowManyTimes.pdb

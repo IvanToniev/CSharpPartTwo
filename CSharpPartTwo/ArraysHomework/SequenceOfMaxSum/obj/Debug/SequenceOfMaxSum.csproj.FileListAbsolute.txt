@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\bin\Debug\SequenceOfMaxSum.exe.config
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\bin\Debug\SequenceOfMaxSum.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\bin\Debug\SequenceOfMaxSum.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\obj\Debug\SequenceOfMaxSum.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\obj\Debug\SequenceOfMaxSum.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\ArraysHomework\SequenceOfMaxSum\obj\Debug\SequenceOfMaxSum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\TextFiles\SortFirstLetter\bin\Debug\SortFirstLetter.exe.config

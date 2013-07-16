@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\bin\Debug\DateInText.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\bin\Debug\DateInText.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\bin\Debug\DateInText.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\obj\Debug\DateInText.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\obj\Debug\DateInText.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\DateInText\obj\Debug\DateInText.pdb

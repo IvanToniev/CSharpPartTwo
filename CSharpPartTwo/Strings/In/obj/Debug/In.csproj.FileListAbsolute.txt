@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\bin\Debug\In.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\bin\Debug\In.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\bin\Debug\In.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\obj\Debug\In.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\obj\Debug\In.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\In\obj\Debug\In.pdb

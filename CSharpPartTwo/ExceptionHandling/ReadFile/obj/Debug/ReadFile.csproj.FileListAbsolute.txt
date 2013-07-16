@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\bin\Debug\ReadFile.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\bin\Debug\ReadFile.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\bin\Debug\ReadFile.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\obj\Debug\ReadFile.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\obj\Debug\ReadFile.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\ReadFile\obj\Debug\ReadFile.csprojResolveAssemblyReference.cache

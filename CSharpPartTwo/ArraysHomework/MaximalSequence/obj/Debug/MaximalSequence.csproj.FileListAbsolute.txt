@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\bin\Debug\MaximalSequence.pdb
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\MaximalSequence\obj\Debug\MaximalSequence.pdb

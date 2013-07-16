@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\obj\Debug\WorkDays.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\obj\Debug\WorkDays.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\WorkDays\obj\Debug\WorkDays.pdb

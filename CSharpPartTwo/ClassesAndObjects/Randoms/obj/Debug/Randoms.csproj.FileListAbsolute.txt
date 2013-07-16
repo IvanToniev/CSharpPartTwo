@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\Randoms\bin\Debug\Randoms.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\Randoms\bin\Debug\Randoms.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\Randoms\bin\Debug\Randoms.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\Randoms\obj\Debug\Randoms.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\Randoms\obj\Debug\Randoms.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\bin\Debug\StringOfNumbersSum.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\bin\Debug\StringOfNumbersSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\bin\Debug\StringOfNumbersSum.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\obj\Debug\StringOfNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\obj\Debug\StringOfNumbersSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ClassesAndObjects\StringOfNumbersSum\obj\Debug\StringOfNumbersSum.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\InRange\bin\Debug\InRange.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\InRange\bin\Debug\InRange.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\InRange\bin\Debug\InRange.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\InRange\obj\Debug\InRange.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\InRange\obj\Debug\InRange.pdb

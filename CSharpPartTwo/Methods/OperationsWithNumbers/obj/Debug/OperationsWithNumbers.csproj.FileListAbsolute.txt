@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\bin\Debug\OperationsWithNumbers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\OperationsWithNumbers\obj\Debug\OperationsWithNumbers.pdb

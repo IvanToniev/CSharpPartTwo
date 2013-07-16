@@ -1,0 +1,3 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\Factoriels\bin\Debug\Factoriels.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\Factoriels\obj\Debug\Factoriels.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\Methods\Factoriels\obj\Debug\Factoriels.pdb

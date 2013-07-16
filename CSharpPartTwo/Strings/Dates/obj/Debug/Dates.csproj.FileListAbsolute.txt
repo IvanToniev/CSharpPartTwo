@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dates\bin\Debug\Dates.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dates\bin\Debug\Dates.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dates\bin\Debug\Dates.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dates\obj\Debug\Dates.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Strings\Dates\obj\Debug\Dates.pdb

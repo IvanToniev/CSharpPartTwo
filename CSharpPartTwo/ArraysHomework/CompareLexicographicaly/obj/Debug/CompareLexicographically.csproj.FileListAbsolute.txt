@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\CompareLexicographicaly\bin\Debug\CompareLexicographicaly.exe.config
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\CompareLexicographicaly\bin\Debug\CompareLexicographicaly.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\CompareLexicographicaly\bin\Debug\CompareLexicographicaly.pdb
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\CompareLexicographicaly\obj\Debug\CompareLexicographicaly.exe
+c:\users\ivan\documents\visual studio 2012\Projects\ArraysHomework\CompareLexicographicaly\obj\Debug\CompareLexicographicaly.pdb

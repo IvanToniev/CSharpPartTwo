@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\bin\Debug\HexToBin.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\bin\Debug\HexToBin.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\bin\Debug\HexToBin.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\obj\Debug\HexToBin.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\obj\Debug\HexToBin.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NumeralSystems\HexToBin\obj\Debug\HexToBin.pdb

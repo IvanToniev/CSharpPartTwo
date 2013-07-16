@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\bin\Debug\Downloads.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\bin\Debug\Downloads.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\bin\Debug\Downloads.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\obj\Debug\Download.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\obj\Debug\Downloads.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\CssPresentation\2\ExceptionHandling\Downloads\obj\Debug\Downloads.pdb
